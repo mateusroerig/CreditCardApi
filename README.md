@@ -80,7 +80,7 @@ curl -X POST http://localhost:8080/installments \
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-repositorio>
+    git clone git@github.com:mateusroerig/CreditCardApi.git
     cd CreditCardApi
     ```
 
